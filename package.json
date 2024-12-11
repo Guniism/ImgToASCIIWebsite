@@ -2,7 +2,7 @@
   "name": "img-to-ascii-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/Guniism/ImgToASCIIWebsite/",
+  "homepage": "https://yourusername.github.io/ImgToASCIIWebsite",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
